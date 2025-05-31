@@ -19,7 +19,26 @@ xpath,css selector
 * Understand to automate simple login Web application using
    "id" locater.
 
-* Understand how to handle textbox means **Enter the data** ,**Click on submit button**  
+* Understand how to handle textbox means **Enter the data** ,**Click on submit button**
+  * [ ] **Activites and Tasks**
+
+>Open the browser.
+
+>Go to the login page
+
+>Enter the username using locater **ID**.
+
+>Enter the password using locater **ID**.
+
+>Click submit button using locater **ID**.
+
+>Add each step to report.
+
+>Show success message in the report,
+
+>Close the browser.
+
+
 
 
 
