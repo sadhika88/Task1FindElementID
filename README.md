@@ -96,7 +96,8 @@ Gained hands-on experience in automating web applications by using various Selen
  Successfully completed a demo project using findElement by ID in Selenium. I uploaded the project on GitHub and shared all my skills. I also explained how I developed the source code and handled the task along with test report.
 
 
- ### Report
+ ### LogInReport
+![Report](https://github.com/sadhika88/Task1FindElementID/blob/fb5490692ef14b14d17176109b6f6027086e9348/Screenshot%202025-06-01%20180358.png)
 
 
 
