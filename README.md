@@ -80,7 +80,14 @@ xpath,css selector
 *Java was a new to me
 
    Followed beginner Java tutarials  step by step
-   
+
+
+   * [ ] **Outcomes and Impact**
+
+* Successfully completed a demo login automation project by locating elements using WebElement ID in Selenium with Java.
+* Shared my work on GitHub.
+* Practiced small demo Projects.
+*Gained hands-on experience in automating web applications by using various Selenium locators like ID, Name, ClassName, XPath, and CSS Selector
 
 
 
