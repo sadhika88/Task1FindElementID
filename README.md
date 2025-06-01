@@ -66,6 +66,22 @@ xpath,css selector
 * Created Small Projects using Selenium with Java
 * Upload Projects on Github to show my work
 
+  
+* [ ] **Challenges and Solutions**
+
+* Learning Java Dropdowns,Webelements,Checkboxes ,Buttons etc...
+
+     To overcome this challenge, I started learning testing from scratch through online platforms  and practiced by working on demo projects regularly.
+     
+* Had a career gap
+   
+   Made a daily study plan and stayed focused
+
+*Java was a new to me
+
+   Followed beginner Java tutarials  step by step
+   
+
 
 
 
