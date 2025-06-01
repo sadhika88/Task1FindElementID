@@ -38,6 +38,29 @@ xpath,css selector
 
 >Close the browser.
 
+* [ ] Skills and Competencies
+* Selenium,Github,Maven,TestNG
+* Java
+* Jenkins
+* My Sql,Eclipse
+* Manual Testing
+
+
+1.Requirement analysis and testcase design
+
+2.Functional, Regression, Smoke, Sanity, and Compatibility Testing
+
+3.Good Understanding of SDLC and STLC.
+4.Defect Reporting and tracking using Tools like Jira..
+
+**Automation Testing(Selenium with Java)**
+
+* Writing testscripts
+* TestNG framework
+* Page Object Model
+* Maven
+* Github for Version Control
+
 
 
 
