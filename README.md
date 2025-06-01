@@ -89,6 +89,10 @@ xpath,css selector
 * Practiced small demo Projects.
 Gained hands-on experience in automating web applications by using various Selenium locators like ID, Name, ClassName, XPath, and CSS Selector
 
+* [ ] **Conclusion**
+ Successfully completed a demo project using findElement by ID in Selenium. I uploaded the project on GitHub and shared all my skills. I also explained how I developed the source code and handled the task along with test report
+
+
 
 
 
