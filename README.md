@@ -61,6 +61,12 @@ xpath,css selector
 * Maven
 * Github for Version Control
 
+* [ ] Feedback and Evidence
+* Completed manual and automation testing training
+* Created Small Projects using Selenium with Java
+* Upload Projects on Github to show my work
+
+
 
 
 
